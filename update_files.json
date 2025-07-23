@@ -1,7 +1,4 @@
 [
-    "main.py",
-    "hse_app.py",
-    "file_manager.py",
-    "smart_features.py",
-    "utils.py"
+    "HSE.exe",
+    "updater_stub.exe"
 ]
